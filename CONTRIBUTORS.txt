@@ -9,3 +9,5 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
+- Miguel Ángel Nieva Arjona (migniearj@alum.us.es)
+
