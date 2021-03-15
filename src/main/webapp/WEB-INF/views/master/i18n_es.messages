@@ -10,14 +10,13 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #FFE97F 
+master.banner.background = #343A40 
 
 ﻿# master.welcome ##############################################################
 
 master.welcome.title = ¡Bienvenidos!
 master.welcome.text = \
-	Bienvenidos a Acme Stater!  Nunca antes ha sido tan sencillo desarrollar un \
-	proyecto y hacerlo funcionar.
+	Bienvenidos al proyecto Acme-One del June Group#16.
 
 # master.menu #################################################################
 
@@ -62,7 +61,7 @@ master.menu.user-account.become-consumer = Hazte consumidor
 ﻿# master.footer ###############################################################
 
 master.footer.title.about = Nosotros
-master.footer.label.company = La empresa
+master.footer.label.company = Nuestra empresa
 master.footer.label.license = Licencia
 master.footer.title.social = Social
 master.footer.label.linked-in = Linked-In
@@ -73,27 +72,26 @@ master.footer.label.spanish = Español
 
 # master.company ##############################################################
 
-master.company.title = La compañía
+master.company.title = Acme One
 master.company.text = \
-	Starter Project, Inc. es una compañía fictícia que proporciona un proyecto \
+	Acme One, Inc. es una compañía ficticia que proporciona un proyecto \
 	plantilla para los estudiantes de la asignatura Diseño y Pruebas, en el Grado \
 	en Ingeniería del Software de la Universidad de Sevilla.
-master.company.name = Starter Project, Inc.
-master.company.address = Calle, número, Ciudad, Estado, País
-master.company.phone = +000 123 456
-master.company.email = contact@acme.com
+master.company.name = Acme One, Inc.
+master.company.address = 31, Elm Street, New York, New York, USA
+master.company.phone = +34 954 232 438
+master.company.email = contact@acmeOne.com
 
 # master.license ##############################################################
 
 master.license.title = Licencia
 master.license.text = \
-	Puede usar este sistema de forma completamente gratuita respetando las leyes \
-	que sean aplicables.  No compartimos ninguna información sobre Ud. con ninguna \
-	otra empresa.  Tan sólo usamos tres cookies, a saber: "JSESSIONID" para identificar \
-	su sesión de trabajo, "remember" para mantener su información de autentificación \
-	durante un máximo de 31 días y "language" para almacenar sus preferencias de \
-	lenguage.  Además, almacenamos un ítem llamado "returnStack" en el almacenamiento \
-	local de su navegador para saber dónde tienen que ir algunos botones.
+	     Este software se proporciona bajo licencia del MIT.        \
+	     La Licencia MIT es una licencia de software libre          \
+	     permisiva que se origina en el Instituto de Tecnología     \
+	     de Massachusetts. Como una licencia permisiva, pone        \
+	     sólo una restricción muy limitada a la reutilización y     \ 
+	     tiene, por lo tanto, una excelente compatibilidad de licencia.
 
 # master.panic ################################################################
 
