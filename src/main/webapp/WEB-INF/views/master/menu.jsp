@@ -21,7 +21,7 @@
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.antcammar4" action="https://www.w3schools.com/"/>
-			<acme:menu-suboption code="Cortés's link" action="https://www.youtube.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.alvcorcas" action="https://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.migniearj" action="https://www.bbc.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.serrojjim" action="https://www.motogp.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.martorsan13" action="https://www.ultimate-guitar.com/"/>
