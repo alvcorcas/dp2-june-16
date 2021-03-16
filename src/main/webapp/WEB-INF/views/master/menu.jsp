@@ -24,6 +24,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.alvcorcas" action="https://www.youtube.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.migniearj" action="https://www.bbc.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.serrojjim" action="https://www.motogp.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.aleruijur" action="https://www.twitter.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.martorsan13" action="https://www.ultimate-guitar.com/"/>
 			
 		</acme:menu-option>
